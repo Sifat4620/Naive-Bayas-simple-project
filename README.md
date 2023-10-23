@@ -1,0 +1,1 @@
+# Naive-Bayas-simple-project
